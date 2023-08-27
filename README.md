@@ -1,4 +1,4 @@
-[![MasterHead](https://im.ezgif.com/tmp/ezgif-1-025c24ac45.gif)](https://hrsh11.io)
+[![MasterHead](https://drive.google.com/file/d/1Akfsyj1rT5pKVLxs2fMjW8JVriIE3pC-/view?usp=drive_link)](https://hrsh11.io)
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
 <h3 align="center">An enthusiastic individual hailing from India with a strong devotion to crafting and developing applications on the Android platform.</h3>
 
